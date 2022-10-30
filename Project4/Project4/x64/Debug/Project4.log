@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  The contents of <string_view> are available only with C++17 or later.
+D:\languages\c++\algorithm_and_struct\Project4\Project4\Source.cpp(21,15): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\languages\c++\algorithm_and_struct\Project4\Project4\Source.cpp(40,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Project4.vcxproj -> D:\languages\c++\algorithm_and_struct\Project4\x64\Debug\Project4.exe
